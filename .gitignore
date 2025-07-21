@@ -1,5 +1,5 @@
 venv/
-old/
+dev/
 *.pyc
 __pycache__/
 *.bat
